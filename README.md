@@ -27,7 +27,6 @@ This is a simple script to find github repositories by keywords.
 
 ## How to use
 
-- Search for repositories by keywords
 - Search for repositories by language
 - Search for repositories by stars
 - Search for repositories by forks
